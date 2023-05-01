@@ -1,0 +1,47 @@
+body{
+    background-color: floralwhite;
+
+    font-family: sans-serif;
+}
+
+  h1, h2, h3{
+     text-align: center;
+  }
+
+  p{
+   text-align: center;
+  }
+
+p{
+    font-size: 24px;
+}
+
+.img-1{
+  margin-right: 150px;
+}
+
+.img-2{
+  margin-right: 150px;
+}
+
+.img-3{
+  margin-right: 90px;
+}
+
+h4{
+  text-align: left;
+}
+
+div{
+  text-align: left;
+}
+
+.pf-1{
+
+  margin-right: 80px;
+}
+
+#seccion1{
+  font: size 100px;
+  text-align: center;
+}
